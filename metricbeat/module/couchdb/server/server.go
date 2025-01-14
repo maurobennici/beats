@@ -30,7 +30,7 @@ import (
 )
 
 const (
-	defaultScheme = "http"
+	defaultScheme = "https"
 	defaultPath   = "/_stats"
 )
 
